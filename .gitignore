@@ -223,3 +223,6 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks
 fifa_profiling.html
 *.csv
+fifa_data_with_timeliness.csv
+fifa_data_with_timeliness.csv
+*.csv
